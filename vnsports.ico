@@ -283,6 +283,245 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAQ/m40_index.m3u8?cc
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVCab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAQ/m40_index.m3u8?cc
+
+
+#__________Kênh Địa Phương___________
+
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/0Qr8zcx/VL1.webpp", Vĩnh Long 1
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/9WDDrPS/VL2.webp", Vĩnh Long 2
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/HCb9QhF/VL3.webp", Vĩnh Long 3
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/TYrZKWk/VL4.webp", Vĩnh Long 4
+https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+																						 ㅤ
+
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/ChnZ2xH/An-Ninh.webp",An Ninh TV
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/xsxBjVc/Quoc-Phong.webp" catchup="append" catchup-days="3",Quốc Phòng TV
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="quochoi" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/WHQWyfk/quochoi.webp",Quốc Hội TV
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="nhandan" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/9gxyJq5/Nhan-Dan.webp",Nhân Dân TV
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:nhandanhd/chunklist_b5128000.m3u8
+
+#EXTINF:0 tvg-id="vovtvhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/hghDpTy/VOV.webp",VOV TV
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/PT47qBy/V-NEWS.png",V.News TV
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="angiang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/rGPm4DM/ATV-HD-2019.webp", An Giang
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="baclieu" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/wJ7gQVN/Bac-Lieu.webp", Bạc Liêu
+https://vips-livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bacgiang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/rMLjG8x/Bac-Giang.webp", Bắc Giang
+https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="backan" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/fXxvRck/Bac-Kan.webp", Bắc Kạn
+https://vips-livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bacninh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/q1N697j/Bac-Ninh.webp", Bắc Ninh
+https://vips-livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bentre" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/mbTNLys/Ben-Tre.webp", Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Xxn33MG/Binh-Duong.webp", Bình Dương 1
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/sV8FMP2/Binh-Duong2.webp", Bình Dương 2
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/ZfhshtB/Binh-Phuoc1.webp", Bình Phước 1
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/tq7HjcF/Binh-Phuoc2.webp", Bình Phước 2
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhdinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Wf8TsRt/Binh-Dinh.webp", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhthuan" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/MkPb2bY/Binh-Thuan.webp", Bình Thuận
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="caobang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Z6br62B/Cao-Bang.webp", Cao Bằng
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="camau" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/MDD77w3/CaMau.webp", Cà Mau
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="cantho" group-title="Kênh Địa Phương" tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/04/348878-CanTho.png", Cần Thơ
+https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="danang1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/GVmQ0V1/Da-Nang.webp", Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:0 tvg-id="danang2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/MBHH0Ws/Da-Nang2.webp", Đà Nẵng 2
+https://vips-livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0tvg-id="daklak" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/BGtTyXM/Dak-Lak.webp", Đắk Lắk
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="daknong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/8stMrrc/Dak-Nong.webp", Đắk Nông
+https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
+
+#EXTINF:0 tvg-id="dienbien" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/kDqjvf2/Dien-Bien.webp", Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/7RB1dvy/Dong-Nai1.webp", Đồng Nai 1
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/R0HZ8qf/Dong-Nai2.webp", Đồng Nai 2
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongthap" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/8gLMDk1/Dong-Thap1.webp", Đồng Tháp 1
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongthap2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/V9Cd9tQ/Dong-Thap2.webp", Đồng Tháp 2
+https://vips-livecdn.fptplay.net/sdc/dongthaphd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="gialai" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/9tkmzb6/Gia-Lai.webp", Gia Lai
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hanoi1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/9ZJBNjw/Ha-Noi1.webp", Hà Nội 1
+https://live.hanoitv.vn/hntvlive/tv1live.m3u8
+
+
+#EXTINF:0 tvg-id="hagiang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/9cyFWK2/Ha-Giang.webp", Hà Giang
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hanam" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/wCV3d3c/HaNam.webp", Hà Nam
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hatinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/pbF5bsy/Ha-Tinh.webp", Hà Tĩnh
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="haiduong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/5YfWpW6/Hai-Duong.webp", Hải Dương
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="haiphong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/1b8bq0g/Hai-Phong.webp", Hải Phòng
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="haugiang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/5KbJGxX/Hau-Giang.webp", Hậu Giang
+http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="hoabinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/yWFzPZy/Hoa-Binh.webp", Hòa Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/vYDK1xp/Hue.webp", Huế
+https://vips-livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hungyen" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/KWCW8Vw/Hung-Yen.webp", Hưng Yên
+https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="khanhhoa" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/cw1pPYG/Khanh-Hoa.webp", Khánh Hoà
+https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="kiengiang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/yVjbY1W/Kien-Giang1.webp", Kiên Giang
+https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="kontum" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/QYkTwhZ/Kon-Tum.png", Kon Tum
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+																		 ㅤ
+#EXTINF:0 tvg-id="laichau" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/hMmPgNf/Lai-Chau.webp", Lai Châu
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="laocai" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/LvDLkYs/Lao-Cai.webp", Lào Cai
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="langson" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/pxJYCsJ/Lang-Son.webp", Lạng Sơn
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="lamdong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/WGpqw3L/Lam-Dong.webp", Lâm Đồng
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="longan" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/kGSFgRT/Long-An.webp", Long An
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0 tvg-id="namdinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/wMcXZVy/Nam-Dinh.webp", Nam Định
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="ninhbinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/0n7xQL5/Ninh-Binh.webp", Ninh Bình
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="ninhthuan" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/rt8Bw8K/Ninh-Thuan.web", Ninh Thuận
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="nghean" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/HBrzVGZ/Nghe-An.webp", Nghệ An
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="phutho" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/KWG49By/Phu-Tho.webp", Phú Thọ
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="phuyen" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/wgrTyQS/Phu-Yen.webp", Phú Yên
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangbinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Zztjb3F/Quang-Binh.webp", Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangnam" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/hWTWYvQ/Quang-Nam.webp", Quảng Nam
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangngai" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/zV97TJJ/Quang-Ngai.webp", Quảng Ngãi
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangnninh1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/q5HXMzJ/Quang-Ninh1.webp", Quảng Ninh 1
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="quangninh3" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/VLmK2GM/Quang-Ninh3.webp", Quảng Ninh 3
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+
+#EXTINF:0 tvg-id="quangtri" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Lpzp4sC/Quang-Tri.webp", Quảng Trị
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="soctrang" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/fYVQz3m/Soc-Trang1.webp", Sóc Trăng
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="sonla" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/q1hVHZj/SonLa.webp", Sơn La
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+
 																					 ㅤ
+#EXTINF:0 tvg-id="tayninh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/ctTBTcN/Tay-Ninh.webp", Tây Ninh
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thaibinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/wN3cMyq/Thai-Binh.png", Thái Bình
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="thainguyen" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/rQDRv82/Thai-Nguyen1.webp", Thái Nguyên
+https://vips-livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thanhhoa" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/B3FrfwL/Thanh-Hoa.webp", Thanh Hóa
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="tiengiang" group-title="Kênh Địa Phương" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_thtg.jpg", Tiền Giang
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="travinh" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/sjGC7vZ/Tra-Vinh.webp", Trà Vinh
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="tuyenquang" group-title="Kênh Địa Phương"" tvg-logo="https://i.ibb.co/Sx1WbN9/Tuyen-Quang.webp", Tuyên Quang
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+
+																						 ㅤ
+#EXTINF:0 tvg-id="vinhphuc" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/1KWBbb4/Vinh-Phuc.webp", Vĩnh Phúc
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="vungtau" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/jTJCHW7/Vung-Tau.webp", Vũng Tàu
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="yenbai" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/KWzjFqj/Yen-Bai.webp", Yên Bái
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+ㅤ
 
 
