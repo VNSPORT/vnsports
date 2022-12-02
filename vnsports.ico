@@ -20,36 +20,44 @@ https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 #------K+-------
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+BGj6r7SVFLAKpIkjxhNrw", "kid":"+faEc1hHTaSvGSqhj7MVTA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eiebI0GXrMPcu8oU1j8sOQ", "kid":"JDBGRHylQZKCfwVuHgf6dw" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o4EAXmHfBVV883q6lNqjXw", "kid":"KN7DHbJ8S32+U6YALgaxQg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"17COvK3BxgaCo07jH4EAwg", "kid":"ocE6qPlmRSKf8/6pu3uIRg" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EL5wMFnVeL0KScgn18prGA", "kid":"k0O7wg8PTXiJBQ8KMHP/Aw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kr6qlNQrES4rrKMjLdxHJg", "kid":"nVmp3MPDQLSP8pzX0DfkWA" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XreDdZgYpvhc/dfulzjZTg", "kid":"Ky8x2P8lQuyomGWSwBXnig" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/fL4nK6sGE8t/wIEIhDrw", "kid":"RydlmEoCTTuZYLI1QM30tg" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EAqdpgiYVB5ZlTAKZK4HAg", "kid":"GTjWes++SR6kBAklGnrx/A" } ], "type":"temporary" }
+
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmQ12652Mioit8h7cOE0/w", "kid":"87ZDODvxSRqHvcF/jyNsdg" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="klive2hd" group-title="K+" tvg-logo="https://i.ibb.co/1XBNzSN/klive2.png", K+LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/index.mpd?maxrate=3000000
+
 #EXTINF:-1 tvg-id="klive3hd" group-title="K+" tvg-logo="https://i.ibb.co/RD6Zc50/klive3.png", K+LIVE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000000
+
 #-----------------VTV------------
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
