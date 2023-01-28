@@ -194,7 +194,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxr
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
