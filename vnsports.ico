@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #------🅺+-------
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 VieOn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonYsgg", "kid":"PGQuhgq+PfqKyJcA93BvqA" } ], "type":"temporary" }
+https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/3f30225e365de5843ff2347da156d1b1/1675478868133/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=Njk2ZWUxNjctODY5MS05ZjRiLWE2M2ItOTAzN2M3YzMzMjJkfHdlYnwwMzA3YmMwNzZjY2I4ZDdlMDQyMzg1ZDRhNzg4NjhiMnxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDVDMDUyRnxjNTUxZWM5YTRlNmU2YmU3NjhlOTg1NmU4ODg2ZWRjYg==
+
+
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
