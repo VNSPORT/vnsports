@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #------🅺+-------
+
+
+
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 fpt
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aqypIsSv6ssix+FZEBj8OQ", "kid":"CpN88wglM92VoS0t7ki+aA" } ], "type":"temporary" }
@@ -30,6 +33,15 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x8A/fZ2+aYZYQKyo0Oib7w", "kid":"IW8gzTP9SMGeQqQKihAEnw" },{ "kty":"oct", "k":"4onASeu8egEpia9ztmjH0w", "kid":"abMgzTP9SMGeQqQKihAEnw" },{ "kty":"oct", "k":"ItEOmLvsyRu9f2r21m8HUg", "kid":"drdk/jP9SMGeQqQKihAEnw" },{ "kty":"oct", "k":"Bl3hKtlp7wgZ5zROFlVP5g", "kid":"YsRkFoL9SMGeQqQKihAEnw" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
+
+#----------------------------------
+
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID FPTplay
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KuNYGeVwlcxZSs5prgyicw", "kid":"d+PBrH5qPGmIVnKybFQTeQ" } ], "type":"temporary" }
+https://live-drm.fptplay.net/MzIxNzg5MzR8azFraWRzZnBsXzE1MDAuc3RyZWFtfHZpZXR0ZWx8MTY3NTQ3ODE2MXwxMTYuOTcuMTA5LjIyNnwzMTk0YmZmZDkxMjYyNDg0ZmUwZTE2ZThmMzYyODc3Zg/drmlive/k1kidsfpl_1500.stream/manifest.mpd
+#----------------------------------
 
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
