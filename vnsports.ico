@@ -33,7 +33,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrat
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 FPTplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eDSeLYFxOYbRaCxFtin8vA", "kid":"qDBayQtTO2a8zUKGnx/IwA" } ], "type":"temporary" }
-https://live-drm.fptplay.net/MzIxNzg5MzR8azFzcG9ydDFmcGxfNzIwcC5zdHJlYW18dmlldHRlbHwxNjc1NDc4NzM0fDExNi45Ny4xMDkuMjI2fDkyMzBkNGUxMzg3MjYyNWNlZmY5MmUyODQxMWJhMjY5/webplus/k1sport1fpl_720p.stream/manifest.mpd
+https://live-drm.fptplay.net/MzIxNzg5MzR8azFzcG9ydDFmcGxfNzIwcC5zdHJlYW18dmlldHRlbHwxNjc1NDg0NDk2fDExNi45Ny4xMDkuMjI2fDNhODU5N2I0OTY3MTlkZjU5MzU2NWFlYzNkMTBjMzc0/webplus/k1sport1fpl_720p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 FPTplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
