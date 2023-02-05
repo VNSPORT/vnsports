@@ -33,12 +33,12 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrat
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 FPTplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eDSeLYFxOYbRaCxFtin8vA", "kid":"qDBayQtTO2a8zUKGnx/IwA" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/sp1/manifest.mpd
+https://live-drm.fptplay.net/MzIxNzg5MzR8azFzcG9ydDFmcGxfNzIwcC5zdHJlYW18dmlldHRlbHwxNjc1NTcyNTkxfDExNi45Ny4xMDkuMjI2fDIzMGEzMGY4NTQwMDQzNWExNDVmZTg4MDkyMTBmNzFj/webplus/k1sport1fpl_720p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 FPTplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aqypIsSv6ssix+FZEBj8OQ", "kid":"CpN88wglM92VoS0t7ki+aA" } ], "type":"temporary" }
-https://live-drm.fptplay.net/MzIxNzg5MzR8azFzcG9ydDJmcGxfNzIwcC5zdHJlYW18dmlldHRlbHwxNjc1NDc0MzgzfDExNi45Ny4xMDkuMjI2fGY2NDYwYjJkZDU5MGRjZWI3MDE0NmI0ZTEzNTJjYzE3/webplus/k1sport2fpl_720p.stream/manifest.mpd
+https://live-drm.fptplay.net/MzIxNzg5MzR8azFzcG9ydDJmcGxfNzIwcC5zdHJlYW18dmlldHRlbHwxNjc1NTczMzI3fDExNi45Ny4xMDkuMjI2fDJmNWMwODkwZDQ2YTYwZDQyNzZjMjc4ZWQyY2JjMDJk/webplus/k1sport2fpl_720p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE FPTplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
