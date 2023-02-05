@@ -55,6 +55,12 @@ https://live-drm.fptplay.net/MzIxNzg5MzR8azFsaWZlZnBsXzcyMHAuc3RyZWFtfHZpZXR0ZWx
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KuNYGeVwlcxZSs5prgyicw", "kid":"d+PBrH5qPGmIVnKybFQTeQ" } ], "type":"temporary" }
 https://live-drm.fptplay.net/MzIxNzg5MzR8azFraWRzZnBsXzE1MDAuc3RyZWFtfHZpZXR0ZWx8MTY3NTYwMTA2NXwxMTYuOTcuMTA5LjIyNnxhMTA2NDIzYWE4MzE2ODJhOTE5MmIzYjI2ZTZiNTVhNA/drmlive/k1kidsfpl_1500.stream/manifest.mpd
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+Sport1 HD VTVCab
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GhHBDhBrM/2S0uu4/xz7Iw", "kid":"C4BGqHbWQDu+Ia0mIzTfFQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://72918341.r.vtvcdn.com/manifest/k-plus-pm/master.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
