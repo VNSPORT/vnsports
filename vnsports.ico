@@ -12,7 +12,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxr
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7+qMjqQ5XLmsIvBAeU+E2w", "kid":"nqayJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"91JWC5kbrSNiK7m5WQm20A", "kid":"5uqyJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"hHS3uwPKKzUJ4vNE0SVg5Q", "kid":"8+72Vc4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"Rqj61yPoavgFXlcViI3vlA", "kid":"3/v2bR0TQYaJNb6FHNSG4w" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000&response=200&bk-ml=1
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
