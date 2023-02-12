@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uu+8GyHnkpxE/KPPdjpmNg", "kid":"nUrL12VSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"KKafs7f37BAEBrM2b8DnwA", "kid":"XPWHjhZSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"+hG/GP6BK18aFpbrNPnNWA", "kid":"pDmHjhZSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"oKXy0nLSK7F6Kr0ipUvQnw", "kid":"sT3LvxZSRxikHNcQk0ljvg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KKafs7f37BAEBrM2b8DnwA", "kid":"XPWHjhZSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"+hG/GP6BK18aFpbrNPnNWA", "kid":"pDmHjhZSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"oKXy0nLSK7F6Kr0ipUvQnw", "kid":"sT3LvxZSRxikHNcQk0ljvg" },{ "kty":"oct", "k":"Uu+8GyHnkpxE/KPPdjpmNg", "kid":"nUrL12VSRxikHNcQk0ljvg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
