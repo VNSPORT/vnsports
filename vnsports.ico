@@ -18,13 +18,13 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CpDtxtCA/vNeTXrkyCMraw", "kid":"l8a+kbREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"JhKY2s0TJsxkXNBWWSCU5Q", "kid":"3wq+kbREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"M4n1ERzBbrxZXzA8T/kONg", "kid":"7A4CwrREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"ypuGu7vfyLC7Lx5GXMGNcQ", "kid":"2BsC2gNEQReoeGyWXvkDtg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9idMVsBEWPX3z9cBXSPplA", "kid":"vZ64IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"eAa7HA2suYmEu70bsnPyGw", "kid":"BeK4IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"VPMyDXkLQ79LroTISebpHw", "kid":"Eub8UTidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"+lRYWNJXN+Rm8jayRxygGw", "kid":"/vP8aYedSzeL5Xc4U8S9DQ" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fc37Z72bLVjG150SPeDVEA", "kid":"xdH+0kB5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"AjSBkVlBG5v6DVJlX+zpRA", "kid":"DRX+0kB5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"Oz1vXHozqv934nIwGgItdg", "kid":"GhlCA0B5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"WLBin/np5i2O3QhSpo8oeA", "kid":"BiZCG495Rp2/jecLcqIhag" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hQ2gJFWi2eCQkD/5z9P3UQ", "kid":"AhxM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"YSe2UVa8MuRcIRgZkfMtqw", "kid":"SmBM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"iAWt0O09rRXkBmVgBRJAUw", "kid":"V2SQDsBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"mbdIHecy6nMX0WL94b2LnQ", "kid":"Q3GQJg9YRVSrV6fUQ/CU9A" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kkidhd" group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
@@ -34,36 +34,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #----------------------------------
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nbx5fDBRlW9yM5ylOAPRaw", "kid":"aKrt2n4bPSyBk8RZVIfXFg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SvlPnUyLVR7SkhxNo7NzxQ", "kid":"DhptJ1mNMc26fD10/jEVag" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/sp2/manifest.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+ Cine FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/cine/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+ Life (FPTPlay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/life/manifest.mpd
-
-#EXTINF:-1 tvg-id="kkidshd"  group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+ Kids FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/kids/manifest.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
