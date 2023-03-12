@@ -6,31 +6,33 @@
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"84Qye+8YlhUSRig/jgbwFQ", "kid":"9tNiDgIKTEisfZzfqpaMWg" },{ "kty":"oct", "k":"wj2qE21/4NYsALUuGROU7Q", "kid":"PhdiDgIKTEisfZzfqpaMWg" },{ "kty":"oct", "k":"KHBpWVPpuaPU/lXtuc/S0A", "kid":"NyimV1EKTEisfZzfqpaMWg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aQqLcDbXEtgkZiv1Uuswjg", "kid":"qPkBsdyMQ6iPXtuwrI4qbA" },{ "kty":"oct", "k":"eNnUc3jV5Q3vh46t+j3Q1A", "kid":"8D0BsdyMQ6iPXtuwrI4qbA" },{ "kty":"oct", "k":"QA25Q/+1iXTL0FpDp+i7pw", "kid":"6U5F+iuMQ6iPXtuwrI4qbA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qZcXfixOhYzhI6wKbbazfQ", "kid":"GtFeItf4rBrluqM0iRnHBg" },{ "kty":"oct", "k":"H0/TaW2rIvak7xb2Z1M6Mw", "kid":"YhVeItf4rBrluqM0iRnHBg" },{ "kty":"oct", "k":"fKqaSoo4Y7p9RkYPDS6eSQ", "kid":"Wyaiayb4rBrluqM0iRnHBg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j33096JCwhHA1N3S5y6Hw", "kid":"DShcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"1P4qcRMebC6xD+gFcvOQhg", "kid":"VWxcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"uA842vs348ceGm/VeUbRRA", "kid":"Tn2g6wJYSpSWfRDExCLRkw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XREBzs6nAVXnRd8Dbpaa/g", "kid":"WNINPKAA8+3TKv/mVKYfMA" },{ "kty":"oct", "k":"QbjiCMbVuONs8mnNFC8upw", "kid":"oBYNPKAA8+3TKv/mVKYfMA" },{ "kty":"oct", "k":"GGJE918e6CuIvxAOvV0rNw", "kid":"mSdRhe8A8+3TKv/mVKYfMA" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vA8skc5TSCEodnoAcNlxUA", "kid":"rwEjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"whs2WUT1dy1IUqC9AUyE4g", "kid":"90UjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"YxpWoG+L6Lb9fU2HVpdIvA", "kid":"8FZn7gFGTKedrNXTyFTR2Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+nV3D6svmb4u9uKl+6gB5g", "kid":"TmsQLJgJKc6b4+jtYQn2YQ" },{ "kty":"oct", "k":"C81rdDpie8VjW821YEtEMA", "kid":"lq8QLJgJKc6b4+jtYQn2YQ" },{ "kty":"oct", "k":"Kd2gXaPXMM9dzT5HbKr0sA", "kid":"j8BUdecJKc6b4+jtYQn2YQ" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kkidhd" group-title="🅺+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xbjL8j424fhxzjfzLElicQ", "kid":"tQx4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"uQAzqDevCv1uv2/ZlN3QkA", "kid":"/VB4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"rmcULwJu6k+qflQVQAiriA", "kid":"9mG8/GujQdeGaMFyYJjcXg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QXddgT791BAPPRH80yTpfw", "kid":"HSSaRm5Odgw+TLekqSr9Vw" },{ "kty":"oct", "k":"LrJSamZxDIR9Zo+CUt5Nbg", "kid":"ZWiaRm5Odgw+TLekqSr9Vw" },{ "kty":"oct", "k":"hJHD8OJvq7u6ccYSJ5NEWg", "kid":"Xnnej71Odgw+TLekqSr9Vw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #----------------------------------
