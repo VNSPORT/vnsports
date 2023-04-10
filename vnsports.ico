@@ -105,6 +105,12 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 
 
 #-----------------🆅🆃🆅------------
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 K+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sFuB/0bqxqUe02V3d3pInw", "kid":"XPbPhBhlTtiffK7apmD9Ow" },{ "kty":"oct", "k":"bayUrxF2DivMkBNqE+d78g", "kid":"pDrPhBhlTtiffK7apmD9Ow" },{ "kty":"oct", "k":"Xbzrmp6a1qZI8i2KJscYUw", "kid":"sT4TtRhlTtiffK7apmD9Ow" },{ "kty":"oct", "k":"S2hGK1ftQhTQFJsPhq1kmw", "kid":"nUsTzWdlTtiffK7apmD9Ow" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_vtv1hd/default/index.mpd?maxrate=3000000
+
+
 #EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1
 #https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
