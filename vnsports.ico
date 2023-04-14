@@ -6,8 +6,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68bb61e0e32c487ealea307321714024:95a9eab9c7390b4cb851clcbce080869
-#EXTINF:-1 group-title="Kplus Bảo Chính" tvg-id="kcinehd", K+Cine HD Nguồn Kpòlót
-http://localhost/get_fptplay.php?id=kpm
+#EXTINF:-1 group-title="Kplus test" tvg-id="kcinehd", K+Cine
+http://mrduongtv.byethost7.com/get_fptplay.php
 #------🅺+-------
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD 360
