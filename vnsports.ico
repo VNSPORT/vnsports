@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test
 http://192.168.1.8/get_fptplay.php?id=vtv1-hd
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test2
+http://mrduongtv.byethost7.com/get_fptplay.php?id=vtv1-hd
 
 #------🅺+-------
 
