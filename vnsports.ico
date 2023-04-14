@@ -7,7 +7,7 @@ http://192.168.1.8/get_fptplay.php?id=vtv1-hd
 #EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test2
 http://mrduongtv.byethost7.com/get_fptplay.php?id=vtv1-hd
 
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 test
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 test
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75311f7d8d5d33ddb52b1f6ced646a1a:249d28f5d9d29d3470c19a6908b32f90
