@@ -12,7 +12,7 @@ http://mrduongtv.ddns.net//get_fptplay.php?id=vtv4-hd
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/5__.png", VTV5
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv5-hd
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/ct__.png", VTV Cần Thơ
-http://mrduongtv.ddns.net//get_fptplay.php?id=vtv6-hd
+http://mrduongtv.ddns.net//get_fptplay.php?id=vtv-can-tho
 #EXTINF:0 tvg-id="vtv7hd" group-title="🆅🆃🆅test" tvg-name="VTV7 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/27__.png",VTV7
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv7-hd
 #EXTINF:0 tvg-id="vtv8hd" group-title="🆅🆃🆅test" tvg-name="VTV8 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/36__.png",VTV8
@@ -27,7 +27,7 @@ http://mrduongtv.ddns.net//get_fptplay.php?id=vtv9-hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JJ0o9dnSnTRwwZppCLMvkA", "kid":"dTEffY1dM921Kx9s7WRqGg" } ], "type":"temporary" }
-http://mrduongtv.ddns.net//get_fptplay.php?id=k1
+http://mrduongtv.ddns.net//get_fptplay.php?id=kpm
 
 #------🅺+-------
 
