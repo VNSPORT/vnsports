@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv1-hd
-#EXTINF:0 tvg-id="vtv2hd" group-title="🆅🆃🆅test" tvg-name="VTV2 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/2__.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="🆅🆃🆅test" tvg-name="VTV2 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/2__.png",VTV2 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv2-hd
-#EXTINF:0 tvg-id="vtv3hd" group-title="🆅🆃🆅test" tvg-name="VTV3 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/3__.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="🆅🆃🆅test" tvg-name="VTV3 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/3__.png",VTV3 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv3-hd
-#EXTINF:0 tvg-id="vtv4hd" group-title="🆅🆃🆅test" tvg-name="VTV4 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/4__.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="🆅🆃🆅test" tvg-name="VTV4 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/4__.png",VTV4 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv4-hd
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/5__.png", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/5__.png", VTV5 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv5-hd
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/ct__.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🆅🆃🆅test" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/ct__.png", VTV Cần Thơ test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv-can-tho
-#EXTINF:0 tvg-id="vtv7hd" group-title="🆅🆃🆅test" tvg-name="VTV7 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/27__.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="🆅🆃🆅test" tvg-name="VTV7 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/27__.png",VTV7 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv7-hd
-#EXTINF:0 tvg-id="vtv8hd" group-title="🆅🆃🆅test" tvg-name="VTV8 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/36__.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="🆅🆃🆅test" tvg-name="VTV8 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/36__.png",VTV8 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv8-hd
-#EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅test" tvg-name="VTV9 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/39__.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅test" tvg-name="VTV9 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/39__.png",VTV9 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv9-hd
 
 #============================================================================================================================================
