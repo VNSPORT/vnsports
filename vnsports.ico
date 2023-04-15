@@ -20,14 +20,33 @@ http://mrduongtv.ddns.net//get_fptplay.php?id=vtv8-hd
 #EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅test" tvg-name="VTV9 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/39__.png",VTV9
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv9-hd
 
+#============================================================================================================================================
 
 
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 test
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 test code
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XaUqecAm5BpOPcxU9W2ntA","kid":"1Xmxbd5/OGeAtMi0pXIWAQ"}],"type":"temporary"}
 http://mrduongtv.ddns.net//get_fptplay.php?id=kpm
+
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT2 test code
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvlPnUyLVR7SkhxNo7NzxQ","kid":"DhptJ1mNMc26fD10/jEVag"}],"type":"temporary"}
+http://mrduongtv.ddns.net//get_fptplay.php?id=kpc
+
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+CINE test code
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwt5Mle9591yTYRbFKhLyg","kid":"zBW5DIGyNgmWFKH0DqIINg"}],"type":"temporary"}
+http://mrduongtv.ddns.net//get_fptplay.php?id=k1
+
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+LIFE test code
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v229B99difHRS4PMmjtwhw","kid":"gSEyQDAQPLKOGfXKn1utqg"}],"type":"temporary"}
+http://mrduongtv.ddns.net//get_fptplay.php?id=kns
+
 
 #------🅺+-------
 
