@@ -128,7 +128,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", KSP1-MYTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4CUAbzdvHspsMy1ZHTdr/Q","kid":"iof/eF7cT7yoNgjBaGRlNA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PfSuVLUZFr0kYWpBUUcYCA", "kid":"e/4+BgxdQ/ynyHVIizvrkg" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 
