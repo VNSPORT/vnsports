@@ -19,6 +19,8 @@ http://mrduongtv.ddns.net//get_fptplay.php?id=vtv7-hd
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv8-hd
 #EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅test" tvg-name="VTV9 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/39__.png",VTV9 test code
 http://mrduongtv.ddns.net//get_fptplay.php?id=vtv9-hd
+#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅test" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png", bbc-earth
+http://mrduongtv.ddns.net//get_fptplay.php?id=bbc-earth 
 
 #============================================================================================================================================
 
