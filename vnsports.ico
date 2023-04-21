@@ -21,19 +21,19 @@ http://mrduongtv.ddns.net/fpt.php?id=vtv8-hd
 http://mrduongtv.ddns.net/fpt.php?id=vtv9-hd
 
 #============================================================================================================================================
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 test code
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT1 hide
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XaUqecAm5BpOPcxU9W2ntA","kid":"1Xmxbd5/OGeAtMi0pXIWAQ"}],"type":"temporary"}
 http://mrduongtv.ddns.net/fpt_hide/KplusSport1/output/index.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", KCINE-MYTV
+#EXTINF:-1 tvg-id="kcinehd" group-title="🆅🆃🆅test" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", KCINE hide
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwt5Mle9591yTYRbFKhLyg","kid":"zBW5DIGyNgmWFKH0DqIINg"}],"type":"temporary"}
 http://mrduongtv.ddns.net/fpt_hide/KplusCine/output/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE FPT-PLAY
+#EXTINF:-1 tvg-id="klifehd" group-title="🆅🆃🆅test" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE hide
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v229B99difHRS4PMmjtwhw","kid":"gSEyQDAQPLKOGfXKn1utqg"}],"type":"temporary"}
