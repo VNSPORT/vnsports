@@ -109,6 +109,26 @@ http://live-zlr1.tv360.vn/manifest/K-PLUS-CINE-50fps/master.mpd?timestamp=168281
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-zlr1.tv360.vn/manifest/K-PLUS-NS-HD-50fps/master.mpd?timestamp=1682813058&token=e6ab68596ea526b498744b5d3aa1b9f4&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", Ksp1 360
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://mrduongtv.ddns.net/clearkey/results.php?keyid=60dc85e6cb2247698455dedcbb8e3527&key=6f3d8c58ef25a3f0bb77480181ed89f7
+http://live-zlr1.tv360.vn/manifest/K-PLUS-PM/master.mpd?timestamp=1682901027&token=7819342e0c287517fb19f15d200e7c59&manifestfilter=video_bitrate:1-3600000&uid=16352080
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", Ksp2 360
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://mrduongtv.ddns.net/clearkey/results.php?keyid=38b93c8281bb42bdb21c288b554476eb&key=605d38cc96172c42b6ffd267f06c35c9
+http://live-zlr1.tv360.vn/manifest/K_PLUS_PC/master.mpd?timestamp=1682901261&token=73e45ce0fea013de524e603ea0a3eaee&manifestfilter=video_bitrate:1-3600000&uid=16352080
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", Kkid 360
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://mrduongtv.ddns.net/clearkey/results.php?keyid=ba7dfdf5d7eb4eb594d21f878c021fb7&key=7419ffeaee4439cdbc946a78f143cde8
+http://live-zlr1.tv360.vn/manifest/K-Plus-Kid/master.mpd?timestamp=1682901420&token=3347b1a895c6b671eee102227b150ea3&manifestfilter=video_bitrate:1-3600000&uid=16352080
+
+
+
 #----------------------------------
 
 
