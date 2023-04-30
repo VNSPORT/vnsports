@@ -101,7 +101,7 @@ http://live-zlr1.tv360.vn/manifest/K-PLUS-CINE-50fps/master.mpd?timestamp=168290
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MV8ujwcLhmzMHUe2aOkDfA", "kid":"kDBhyh+FTHyrWNVYgcatoQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-zlr1.tv360.vn/manifest/K-PLUS-NS-HD-50fps/master.mpd?timestamp=1682813058&token=e6ab68596ea526b498744b5d3aa1b9f4&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-zlr1.tv360.vn/manifest/K-PLUS-NS-HD-50fps/master.mpd?timestamp=1682981277&token=9d939cf619c57a635401aebc26ddf351&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", Ksp1 360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
