@@ -100,7 +100,7 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=16794
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"72qnuSbVEx8YCiod5+6NPw", "kid":"5xlqYuC3TB2DgCRrDZ1gKw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-zlr1.tv360.vn/manifest/K-PLUS-CINE-50fps/master.mpd?timestamp=1682812716&token=8b0d373b09c423f81519e0d183506186&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-zlr1.tv360.vn/manifest/K-PLUS-CINE-50fps/master.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE 360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
