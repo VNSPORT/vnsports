@@ -111,7 +111,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="https://i.ibb.co/G28603J/mrduong-on-sports-50fps.png",On Sports
 
-http://live-zlr1.tv360.vn/manifest/VTVCab3_HD_50fps/master.mpd?timestamp=1683253503&token=600a9955eb9fcf93e909503d1b413b38&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-ali4.tv360.vn/manifest/VTVCab3_HD_50fps/master.mpd?timestamp=1683344379&token=1dfdac1d35a7be3cc3367d3fcee2ab5e&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 
 
@@ -125,7 +125,7 @@ http://live-zlr1.tv360.vn/manifest/VTVCab3_HD_50fps/master.mpd?timestamp=1683253
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-http://live-zlr1.tv360.vn/manifest/VTVCab16_HD_50fps/master.mpd?timestamp=1683255171&token=f2798f80eb1bdbc7abafefcb81d617bc&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-zlr1.tv360.vn/manifest/VTVCab16_HD_50fps/master.mpd?timestamp=1683344265&token=f3e656e783570b1a1be76775abeb2d99&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 
 
@@ -139,7 +139,7 @@ http://live-zlr1.tv360.vn/manifest/VTVCab16_HD_50fps/master.mpd?timestamp=168325
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-http://live-zlr1.tv360.vn/manifest/VTVCab18_OnNews_HD_50fps/master.mpd?timestamp=1683255630&token=9a84351342da6d953cbb7d51501573d4&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-ali4.tv360.vn/manifest/VTVCab18_OnNews_HD_50fps/master.mpd?timestamp=1683344463&token=d25177f196ac5b33e7e93f1d498cf33d&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 
 
@@ -153,7 +153,7 @@ http://live-zlr1.tv360.vn/manifest/VTVCab18_OnNews_HD_50fps/master.mpd?timestamp
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-http://live-zlr1.tv360.vn/manifest/Onsport-plus-HD-50fps/master.mpd?timestamp=1683253362&token=52489612910d9ea8b8c072b720661b18&manifestfilter=video_bitrate:1-3600000&uid=16352080
+http://live-ali2.tv360.vn/manifest/Onsport-plus-HD-50fps/master.mpd?timestamp=1683344538&token=b74d7c78439c870bae0e58e001119362&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 
 
